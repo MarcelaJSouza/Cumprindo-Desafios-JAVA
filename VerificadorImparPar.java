@@ -13,7 +13,9 @@ public class VerificadorImparPar {
 		
 		if(numero % 2 ==0) {
 			System.out.println("Este número é par ");
-		}else{ System.out.println("Este número é ímpar ");}
+		} else { 
+			System.out.println("Este número é ímpar ");
+		}
 		
 		entrada.close();
 	}
