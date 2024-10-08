@@ -19,5 +19,4 @@ public class SomaDoisNumeros {
 		
 		entrada.close();
 	}
-
 }
